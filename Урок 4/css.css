@@ -1,0 +1,19 @@
+input {
+    display: block;
+    width: 300px;
+    height: 25px;
+    margin-bottom: 10px;
+}
+
+input:invalid {
+    border: 1px solid red;
+  }
+  
+
+span {
+    color: red;
+}
+
+.comment {
+    height: 100px;
+}
